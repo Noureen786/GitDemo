@@ -32,7 +32,7 @@ def update_excel_data(filePath, searchTerm, colName, new_value):
  
  
 file_path = "/Users/rahulshetty/downloads/download.xlsx"
-fruit_name = "Banana"
+fruit_name = "Apple"
 newValue = "990"
 driver = webdriver.Chrome()
 driver.implicitly_wait(5)
